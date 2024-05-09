@@ -20,7 +20,5 @@ public class Player : MonoBehaviour
          GetComponent<Rigidbody>().AddForce(Vector3.up * 5, ForceMode.VelocityChange);
        }
        
-
-       
     }
 } 
